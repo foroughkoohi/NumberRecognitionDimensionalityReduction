@@ -29,18 +29,18 @@ The performance of the algorithms was compared using the following charts:
 
 1. **Accuracy Score for Training Data**
    
-   ![Train Accuracy Comparison](images/acc_train.png)
+   ![Train Accuracy Comparison](Images/acc_train.png)
 
 2. **Accuracy Score for Test Data**
    
-   ![Test Accuracy Comparison](images/acc_test.png)
+   ![Test Accuracy Comparison](Images/acc_test.png)
 
 3. **Precision for Test Data**
    
-   ![Precision Comparison](images/p_test.png)
+   ![Precision Comparison](Images/p_test.png)
 
 4. **Recall for Test Data**
    
-   ![Recall Comparison](images/r_test.png)
+   ![Recall Comparison](Images/r_test.png)
 
 
